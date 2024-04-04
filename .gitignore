@@ -1,0 +1,6 @@
+### IDE ###
+### JetBrains ###
+.idea/*
+
+### VisualStudioCode ###
+.vscode/*
